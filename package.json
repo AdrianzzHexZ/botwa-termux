@@ -1,0 +1,14 @@
+{
+  "name": "hexz-bot-wa",
+  "version": "1.0.0",
+  "description": "WhatsApp bot with pairing code support for Termux",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.19",
+    "pino": "^9.0.0"
+  }
+}
